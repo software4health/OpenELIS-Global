@@ -1,1 +1,0 @@
-# OpenELIS-Global
